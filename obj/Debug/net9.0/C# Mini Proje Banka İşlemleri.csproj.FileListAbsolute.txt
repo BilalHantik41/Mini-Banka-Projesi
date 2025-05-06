@@ -1,0 +1,29 @@
+C:\Users\Administrator\C# Öğreniyorum\C# Mini Proje Banka İşlemleri\obj\Debug\net9.0\C# Mini Proje Banka İşlemleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\C# Öğreniyorum\C# Mini Proje Banka İşlemleri\obj\Debug\net9.0\C# Mini Proje Banka İşlemleri.AssemblyInfoInputs.cache
+C:\Users\Administrator\C# Öğreniyorum\C# Mini Proje Banka İşlemleri\obj\Debug\net9.0\C# Mini Proje Banka İşlemleri.AssemblyInfo.cs
+C:\Users\Administrator\C# Öğreniyorum\C# Mini Proje Banka İşlemleri\obj\Debug\net9.0\C# Mini Proje Banka İşlemleri.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\C# Öğreniyorum\C# Mini Proje Banka İşlemleri\bin\Debug\net9.0\C# Mini Proje Banka İşlemleri.exe
+C:\Users\Administrator\C# Öğreniyorum\C# Mini Proje Banka İşlemleri\bin\Debug\net9.0\C# Mini Proje Banka İşlemleri.deps.json
+C:\Users\Administrator\C# Öğreniyorum\C# Mini Proje Banka İşlemleri\bin\Debug\net9.0\C# Mini Proje Banka İşlemleri.runtimeconfig.json
+C:\Users\Administrator\C# Öğreniyorum\C# Mini Proje Banka İşlemleri\bin\Debug\net9.0\C# Mini Proje Banka İşlemleri.dll
+C:\Users\Administrator\C# Öğreniyorum\C# Mini Proje Banka İşlemleri\bin\Debug\net9.0\C# Mini Proje Banka İşlemleri.pdb
+C:\Users\Administrator\C# Öğreniyorum\C# Mini Proje Banka İşlemleri\obj\Debug\net9.0\C# Mini Proje Banka İşlemleri.dll
+C:\Users\Administrator\C# Öğreniyorum\C# Mini Proje Banka İşlemleri\obj\Debug\net9.0\refint\C# Mini Proje Banka İşlemleri.dll
+C:\Users\Administrator\C# Öğreniyorum\C# Mini Proje Banka İşlemleri\obj\Debug\net9.0\C# Mini Proje Banka İşlemleri.pdb
+C:\Users\Administrator\C# Öğreniyorum\C# Mini Proje Banka İşlemleri\obj\Debug\net9.0\C# Mini Proje Banka İşlemleri.genruntimeconfig.cache
+C:\Users\Administrator\C# Öğreniyorum\C# Mini Proje Banka İşlemleri\obj\Debug\net9.0\ref\C# Mini Proje Banka İşlemleri.dll
+C:\Users\Administrator\C# Öğreniyorum\C# Eğitim İçeriklerim\C# Mini Proje Banka İşlemleri\obj\Debug\net9.0\C# Mini Proje Banka İşlemleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\C# Öğreniyorum\C# Eğitim İçeriklerim\C# Mini Proje Banka İşlemleri\obj\Debug\net9.0\C# Mini Proje Banka İşlemleri.AssemblyInfoInputs.cache
+C:\Users\Administrator\C# Öğreniyorum\C# Eğitim İçeriklerim\C# Mini Proje Banka İşlemleri\obj\Debug\net9.0\C# Mini Proje Banka İşlemleri.AssemblyInfo.cs
+C:\Users\Administrator\C# Öğreniyorum\C# Eğitim İçeriklerim\C# Mini Proje Banka İşlemleri\obj\Debug\net9.0\C# Mini Proje Banka İşlemleri.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\C# Öğreniyorum\C# Eğitim İçeriklerim\C# Mini Proje Banka İşlemleri\obj\Debug\net9.0\C# Mini Proje Banka İşlemleri.sourcelink.json
+C:\Users\Administrator\C# Öğreniyorum\C# Eğitim İçeriklerim\C# Mini Proje Banka İşlemleri\obj\Debug\net9.0\C# Mini Proje Banka İşlemleri.dll
+C:\Users\Administrator\C# Öğreniyorum\C# Eğitim İçeriklerim\C# Mini Proje Banka İşlemleri\obj\Debug\net9.0\refint\C# Mini Proje Banka İşlemleri.dll
+C:\Users\Administrator\C# Öğreniyorum\C# Eğitim İçeriklerim\C# Mini Proje Banka İşlemleri\obj\Debug\net9.0\C# Mini Proje Banka İşlemleri.pdb
+C:\Users\Administrator\C# Öğreniyorum\C# Eğitim İçeriklerim\C# Mini Proje Banka İşlemleri\bin\Debug\net9.0\C# Mini Proje Banka İşlemleri.exe
+C:\Users\Administrator\C# Öğreniyorum\C# Eğitim İçeriklerim\C# Mini Proje Banka İşlemleri\bin\Debug\net9.0\C# Mini Proje Banka İşlemleri.deps.json
+C:\Users\Administrator\C# Öğreniyorum\C# Eğitim İçeriklerim\C# Mini Proje Banka İşlemleri\bin\Debug\net9.0\C# Mini Proje Banka İşlemleri.runtimeconfig.json
+C:\Users\Administrator\C# Öğreniyorum\C# Eğitim İçeriklerim\C# Mini Proje Banka İşlemleri\bin\Debug\net9.0\C# Mini Proje Banka İşlemleri.dll
+C:\Users\Administrator\C# Öğreniyorum\C# Eğitim İçeriklerim\C# Mini Proje Banka İşlemleri\bin\Debug\net9.0\C# Mini Proje Banka İşlemleri.pdb
+C:\Users\Administrator\C# Öğreniyorum\C# Eğitim İçeriklerim\C# Mini Proje Banka İşlemleri\obj\Debug\net9.0\C# Mini Proje Banka İşlemleri.genruntimeconfig.cache
+C:\Users\Administrator\C# Öğreniyorum\C# Eğitim İçeriklerim\C# Mini Proje Banka İşlemleri\obj\Debug\net9.0\ref\C# Mini Proje Banka İşlemleri.dll
