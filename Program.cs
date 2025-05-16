@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Threading.Channels;
 
 namespace Banka_Islemleri
 {
@@ -7,12 +8,7 @@ namespace Banka_Islemleri
     {
        public static void Main(string[] args)
         {   PerformAction();
-            HesapAcma();
-            Krediİslemleri();
-            AracKredisi();
-            ArsaKredisi();
-            ihtiyacKredisi();
-
+           
         }
         static void PerformAction()
         {   var Banka_Islemleri = new Dictionary<int, string>
@@ -93,7 +89,8 @@ namespace Banka_Islemleri
 
             Console.WriteLine("\nHesabiniz başariyla oluşturuldu! .Devam etmek için bir tuşa basin..");
             Console.WriteLine("\n");
-            Console.ReadKey();
+            Console.ReadKey(true);
+            
         }
 
         static void Krediİslemleri()
@@ -108,13 +105,13 @@ namespace Banka_Islemleri
                 Console.ReadKey();
 
                 HesapAcma();     // Daha önce tanımladığınız hesap açma metodu
-                return;          // Hesap açma sonrası ana menüye dönmek isterseniz burayı return ile bırakın
+                         
              }
             else if (cevap != "E") // Evet dışındaki cevaplar hatalı
             {
                 Console.WriteLine("Geçersiz seçim, ana menüye dönülüyor...");
                 Console.ReadKey();
-                return;
+               
             }
 
 
@@ -165,9 +162,9 @@ namespace Banka_Islemleri
                     
                     Console.WriteLine("Bilinmeyen işlem seçildi.");
                     break;
+                   
             }
-             Console.WriteLine("\nDevam etmek için bir tuşa basin...");
-            Console.ReadKey();
+             
 
         }
         static void AracKredisi()
@@ -204,7 +201,7 @@ namespace Banka_Islemleri
             Console.WriteLine("\n");
             Console.ReadKey();
             
-            return;    
+                
         }
 
         static void ArsaKredisi()
@@ -240,7 +237,7 @@ namespace Banka_Islemleri
             Console.WriteLine("\nKredi Başvurunuz Değerlendirmeye Alindi. Size en yakin sürede bilgi verilecek..");
             Console.WriteLine("\n");
             Console.ReadKey();
-              return;     
+                  
 
         }
 
@@ -274,9 +271,8 @@ namespace Banka_Islemleri
             Console.WriteLine("\nKredi Başvurunuz Değerlendirmeye Alindi. Size en yakin sürede bilgi verilecek..");
             Console.WriteLine("\n");
             Console.ReadKey();
-              return;     
+                  
         }    
-
              
     } 
 }

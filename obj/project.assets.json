@@ -8,24 +8,31 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\C# Öğreniyorum\\C# Eğitim İçeriklerim\\C# Mini Proje Banka İşlemleri\\C# Mini Proje Banka İşlemleri.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Patika+ C#\\If-Else-Pratik\\Mini-Banka-Projesi\\C# Mini Proje Banka İşlemleri.csproj",
       "projectName": "C# Mini Proje Banka İşlemleri",
-      "projectPath": "C:\\Users\\Administrator\\C# Öğreniyorum\\C# Eğitim İçeriklerim\\C# Mini Proje Banka İşlemleri\\C# Mini Proje Banka İşlemleri.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Patika+ C#\\If-Else-Pratik\\Mini-Banka-Projesi\\C# Mini Proje Banka İşlemleri.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\C# Öğreniyorum\\C# Eğitim İçeriklerim\\C# Mini Proje Banka İşlemleri\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Patika+ C#\\If-Else-Pratik\\Mini-Banka-Projesi\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Users\\Administrator\\AppData\\Roaming\\Cosmos User Kit\\packages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
